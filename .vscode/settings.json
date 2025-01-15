@@ -5,5 +5,10 @@
     "mousemove",
     "mouseout",
     "mouseup"
-  ]
+  ],
+  "editor.formatOnSave": false,
+  "sonarlint.connectedMode.project": {
+    "connectionId": "dhruv-techapps",
+    "projectKey": "Dhruv-Techapps_auto-click-auto-fill"
+  }
 }
